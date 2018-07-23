@@ -1,3 +1,3 @@
 # git-demo
-hhjgjj
-# tishjj
+# This is git exercise.
+# Hello
